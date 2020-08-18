@@ -1,14 +1,14 @@
 # e-lite-section-2
 All the codes are present in the ./Section2 folder
 
-##Excercise 1
+## Excercise 1
 https://exercise-1.computer-cguy.vercel.app/
 
-##Excercise 2
+## Excercise 2
 Three.js version https://exercise-2.vercel.app/three.html
 Normal Version https://exercise-2.vercel.app/index.html
 
-##Excercise 3
+## Excercise 3
 Mail API https://lienmail.herokuapp.com/
 
 Ultimate Typing Championship Hack https://github.com/Computer-CGuy/UltimateTypingContestBOT
