@@ -21,4 +21,4 @@ Ultimate Typing Championship Hack https://github.com/Computer-CGuy/UltimateTypin
 
 My Games for js13games 2019 https://js13kgames.com/entries/reptour https://js13kgames.com/entries/recular https://js13kgames.com/entries/jouer
 
-Axis Aligned https://computer-cguy.github.io/AxisAlignedCollisionJs/ A test run for BBOX Collision Algorithm
+Axis Aligned https://computer-cguy.github.io/AxisAlignedCollisionJs/ A test run for BBOX Collision Algorithm. Use arrow keys and WASD
