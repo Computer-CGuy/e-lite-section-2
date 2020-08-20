@@ -5,13 +5,14 @@ All the codes are present in the ./Section2 folder
 
 Every solution to the problem in ./Section2/Exercise 0.
 Editing of text in ex0 is done by first replacing " " with ": " in notepad and using Python command line input to partition every line at ": " and adding " '' " to the third element in the tuple at front and back and then merging it.
-`
+```
+  ans=""
   x = input()
   x = x.partition(" ")
   ans += "".join([x[0],": ","'"+x[2]+"'"])
-  
+  ans += "\n"
   then print(ans) after iterating over every line input in the python console.
-`
+```
 
 ## Exercise 1
 https://exercise-1.computer-cguy.vercel.app/
