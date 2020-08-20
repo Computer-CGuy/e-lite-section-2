@@ -4,7 +4,8 @@ All the codes are present in the ./Section2 folder
 ## Exercise 0
 
 Every solution to the problem in ./Section2/Exercise 0.
-Editing of text in ex0 is done by first replacing " " with ": " in notepad and using Python command line input to partition every line at ": " and adding " '' " to the third element in the tuple at front and back and then merging it.
+
+Editing of text in ex0/5.js is done by first replacing " " with ": " in notepad and using Python command line input to partition every line at ": " and adding " '' " to the third element in the tuple at front and back and then merging it.
 ```
   ans=""
   x = input()
