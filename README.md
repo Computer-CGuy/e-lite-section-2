@@ -23,10 +23,14 @@ Three.js version https://exercise-2.vercel.app/three.html
 Normal Version https://exercise-2.vercel.app/index.html
 
 ## Exercise 3
-Mail API https://lienmail.herokuapp.com/
+Mail API https://lienmail.herokuapp.com/ made using django
 
-Ultimate Typing Championship Hack https://github.com/Computer-CGuy/UltimateTypingContestBOT
+Ultimate Typing Championship Bot https://github.com/Computer-CGuy/UltimateTypingContestBOT you will always win. Keyboard connection is used as Js triggering does not work.
 
-My Games for js13games 2019 https://js13kgames.com/entries/reptour https://js13kgames.com/entries/recular https://js13kgames.com/entries/jouer
+My Games for js13games 2019 https://js13kgames.com/entries/reptour https://js13kgames.com/entries/recular https://js13kgames.com/entries/jouer 
 
-Axis Aligned https://computer-cguy.github.io/AxisAlignedCollisionJs/ A test run for BBOX Collision Algorithm. Use arrow keys and WASD
+Axis Aligned https://computer-cguy.github.io/AxisAlignedCollisionJs/ A test run for BBOX Collision Algorithm. Use arrow keys and WASD to move the two cars respectively
+
+Space Parallax https://github.com/Computer-CGuy/HTML-Space-Parallax Parallaxing universe website
+
+Chrome Extension for form information sniffing https://github.com/Computer-CGuy/FormInfoSnifferChromeExtension
