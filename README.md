@@ -35,29 +35,4 @@ Space Parallax https://github.com/Computer-CGuy/HTML-Space-Parallax Parallaxing 
 
 Chrome Extension for form information sniffing https://github.com/Computer-CGuy/FormInfoSnifferChromeExtension
 
-Node JS Face ID (SERVER) https://github.com/Computer-CGuy/NodeJsFaceID.git \
-For using it 
- ```
-            
-         async function init() {
-            video = document.getElementById("video");
-            // navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia ||  navigator.mozGetUserMedia;
-            const mediaStream = await navigator.mediaDevices.getUserMedia({video: true});
-            // const video = document.createElement('video');
-            video.srcObject = mediaStream;
-          }
-          init()
-          var data = canvas.toDataURL();
-          $.ajax({
-                type: "POST",
-                url: "http://34.67.231.148:3000/saveImage",
-                data: {
-                    title: "hello",
-                    photo: data  
-                }
-            }).done(function (o) {
-                $("#out").html(o)
-                // alert("Photo Saved Successfully!");
-            });
-```
-Here ```34.67.231.148``` is the Public IP of My Google Cloud VM on which the Nodejs script is running ```node index.js```
+
