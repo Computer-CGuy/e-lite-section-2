@@ -37,7 +37,7 @@ Chrome Extension for form information sniffing https://github.com/Computer-CGuy/
 
 Node JS Face ID (SERVER) https://github.com/Computer-CGuy/NodeJsFaceID.git \
 For using it 
- ``
+ ```
             
          async function init() {
             video = document.getElementById("video");
@@ -59,5 +59,5 @@ For using it
                 $("#out").html(o)
                 // alert("Photo Saved Successfully!");
             });
-``
-Here ``34.67.231.148`` is the Public IP of My Google Cloud VM on which the Nodejs script is running ``node index.js``
+```
+Here ```34.67.231.148``` is the Public IP of My Google Cloud VM on which the Nodejs script is running ```node index.js```
